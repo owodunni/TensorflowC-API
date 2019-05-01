@@ -45,7 +45,7 @@ jinit_c_coef_controller
 Now from that definition file, we can finally create the .lib file. We use the “lib” tool for this, so run this command in your Visual Studio Command Prompt:
 
 ```
-lib /def:C:\mypath\mylib.def /OUT:C:\mypath\mylib.lib \MACHINE:x64
+lib /def:C:\mypath\mylib.def /OUT:C:\mypath\mylib.lib /MACHINE:x64
 ```
 
 A script for creating tensorflow.def exists in script/parsedef.py
