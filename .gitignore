@@ -1,0 +1,8 @@
+*user
+bin/*
+Debug/*
+x64/*
+Release/*
+*.Db
+*.opendb
+.vs/*

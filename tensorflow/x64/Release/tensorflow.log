@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\owodunni\documents\visual studio 2015\Projects\tensorflow\tensorflow\3dParty\libtensorflow-cpu-windows-x86_64-1.13.1\include\tensorflow/c/c_api.h(1120): warning C4190: 'TF_NewWhile' has C-linkage specified, but returns UDT 'TF_WhileParams' which is incompatible with C
+  C:\Users\owodunni\documents\visual studio 2015\Projects\tensorflow\tensorflow\3dParty\libtensorflow-cpu-windows-x86_64-1.13.1\include\tensorflow/c/c_api.h(1076): note: see declaration of 'TF_WhileParams'
+  Generating code
+  7 of 7 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  tensorflow.vcxproj -> C:\Users\owodunni\documents\visual studio 2015\Projects\tensorflow\x64\Release\tensorflow.exe
+  tensorflow.vcxproj -> C:\Users\owodunni\documents\visual studio 2015\Projects\tensorflow\x64\Release\tensorflow.pdb (Full PDB)
+          1 file(s) copied.
+          1 file(s) copied.
